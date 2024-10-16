@@ -1,0 +1,16 @@
+{"Daily Plan": [
+    {
+        "Description": "a1",
+        "Actual Completion Time": 0,
+        "Assignment Name": "A1",
+        "Completion Status": false,
+        "Expected Completion Time": 5
+    },
+    {
+        "Description": "a2",
+        "Actual Completion Time": 0,
+        "Assignment Name": "A2",
+        "Completion Status": false,
+        "Expected Completion Time": 3
+    }
+]}

@@ -1,0 +1,23 @@
+{"Daily Plan": [
+    {
+        "Description": "Project",
+        "Actual Completion Time": 30000,
+        "Assignment Name": "CPSC210",
+        "Completion Status": true,
+        "Expected Completion Time": 12
+    },
+    {
+        "Description": "yguuiophjgcfuio",
+        "Actual Completion Time": 20,
+        "Assignment Name": "fghyuhijok;ljbhvgchuiop",
+        "Completion Status": true,
+        "Expected Completion Time": 237232323
+    },
+    {
+        "Description": "sdkfjsdlfjkl",
+        "Actual Completion Time": 20,
+        "Assignment Name": "dfsakljsda,fjlk",
+        "Completion Status": false,
+        "Expected Completion Time": 234234234
+    }
+]}
